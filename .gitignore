@@ -45,3 +45,7 @@ Thumbs.db
 # a bare "server" also matched the cmd/server DIRECTORY, so every new file
 # there (tests, helpers) was silently ignored and missed from commits.
 /server
+
+# Environment files
+.env
+.env.*
